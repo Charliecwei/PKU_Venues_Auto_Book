@@ -1,0 +1,5 @@
+*.ini
+__pycache__
+*.log
+run*.bat
+main*.py
